@@ -4,7 +4,7 @@ const Video = () => {
     return (
         <>
            <div className="video_container">
-              <video className="video" autoPlay poster="https://i.ytimg.com/vi/CRDn1Iklf7o/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDyDVnqpjqi__gDMgVyr2Zf33CQrg" >
+              <video className="video" poster="https://i.ytimg.com/vi/CRDn1Iklf7o/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDyDVnqpjqi__gDMgVyr2Zf33CQrg" >
                   <source src={blogpost}/>
                   </video> 
 
